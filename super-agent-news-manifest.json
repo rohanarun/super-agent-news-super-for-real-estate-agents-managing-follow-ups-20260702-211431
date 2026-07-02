@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[arahi.ai](https://arahi.ai/blog/ai-assistant-for-real-estate-agents)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[mit.edu](https://news.mit.edu/2026/qa-what-agentic-ai-today-and-what-do-we-want-it-be)",
+    "[scmedia.com](https://www.scmedia.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)",
+    "[darkreading.com](https://www.darkreading.com/application-security/ai-generated-workflows-are-a-silent-security-disaster)"
+  ],
+  "design_plan": "rng(seed=42); architecture=reuse(comparison_pages); AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=AA;",
+  "generated_at": "2026-07-02T21:14:37.311638+00:00",
+  "headline": "Super for real estate agents managing follow\u2011ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion\u2011focused landing page showing how Super\u2019s personal AI agents handle real estate follow\u2011ups, listings, and scheduling by actually operating your apps and reusing a computer\u2011use cache for faster, cheaper repeated workflows. Built with the same visual architecture as Super\u2019s best comparison pages, grounded in current evidence about agentic AI, speed\u2011to\u2011lead, and computer\u2011use assistants."
+}
